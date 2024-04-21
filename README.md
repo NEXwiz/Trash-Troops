@@ -9,11 +9,11 @@ Interactive Map: Users and authorities can visualize the locations of reported g
 Real-time Updates: Users receive notifications when there are updates on the status of their complaints.
 
 # Technologies Used
-Frontend: HTML HTML Logo, CSS CSS Logo
+Frontend: HTML , CSS 
 
-Backend: PHP PHP Logo
+Backend: PHP 
 
 Database: MySQL
  
-Server: XAMPP XAMPP Logo
+Server: XAMPP 
 
