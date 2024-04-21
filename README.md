@@ -10,6 +10,10 @@ Real-time Updates: Users receive notifications when there are updates on the sta
 
 # Technologies Used
 Frontend: HTML HTML Logo, CSS CSS Logo
+
 Backend: PHP PHP Logo
-Database: MySQL 
+
+Database: MySQL
+ 
 Server: XAMPP XAMPP Logo
+
