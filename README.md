@@ -1,4 +1,5 @@
 #Trash Troops
+
 Trash Troops is a web platform designed to empower citizens to report and address instances of litter and garbage in their communities. By leveraging user-submitted images and location data, municipal authorities can efficiently allocate resources to clean up public spaces, making streets cleaner and traffic flow smoother.
 
 Features
