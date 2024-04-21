@@ -7,7 +7,8 @@ User Submission: Users can upload images of garbage and litter they encounter in
 Municipal Authority Dashboard: Authorized personnel from municipal authorities can view user-submitted posts, take action on complaints, and update the status of clean-up efforts.
 Interactive Map: Users and authorities can visualize the locations of reported garbage on an interactive map.
 Real-time Updates: Users receive notifications when there are updates on the status of their complaints.
-Technologies Used
+
+# Technologies Used
 Frontend: HTML HTML Logo, CSS CSS Logo
 Backend: PHP PHP Logo
 Database: MySQL 
